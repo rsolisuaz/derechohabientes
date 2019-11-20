@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "dhs": [
+    { "NSS": "8715202020", "nombre": "Roberto" },
+    { "NSS": "2412870150", "nombre": "Marco" },
+    { "NSS": "5423128908", "nombre": "Norman" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  
   "profile": {
-    "name": "typicode"
+    "name": "rsolisuaz"
   }
 }
